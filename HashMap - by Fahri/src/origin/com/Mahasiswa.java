@@ -50,7 +50,6 @@ public class Mahasiswa {
 
      System.out.print("Masukkan nama: ");
      nama = sc.next();
-     sc.close();
 
      key = nim + "-" + kelas + "-" + nama;
 
